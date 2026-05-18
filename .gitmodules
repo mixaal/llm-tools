@@ -1,5 +1,5 @@
 [submodule "email-agent"]
-	path = email-agent
+	path = agents/email-agent
 	url = https://github.com/mixaal/email-agent
 [submodule "photo-raw-agent"]
 	path = agents/photo-raw-agent
