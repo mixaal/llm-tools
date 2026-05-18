@@ -1,0 +1,18 @@
+[submodule "email-agent"]
+	path = email-agent
+	url = https://github.com/mixaal/email-agent
+[submodule "photo-raw-agent"]
+	path = photo-raw-agent
+	url = https://github.com/mixaal/photo-raw-agent
+[submodule "file-agent"]
+	path = file-agent
+	url = https://github.com/mixaal/file-mcp
+[submodule "photo-organizer-agent"]
+	path = photo-organizer-agent
+	url = https://github.com/mixaal/photo-mcp-server
+[submodule "total-recall"]
+	path = total-recall
+	url = https://github.com/mixaal/total-recall
+[submodule "photo-edit-models"]
+	path = photo-edit-models
+	url = https://github.com/mixaal/photo-edit-models
